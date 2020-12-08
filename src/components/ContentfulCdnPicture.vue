@@ -12,10 +12,10 @@
 </template>
 
 <script>
-import { imageUrl } from './integrations/graphcms'
+import { imageUrl } from '../integrations/contentful'
 
 export default {
-  name: 'GraphCmsCdnPicture',
+  name: 'ContentfulCdnPicture',
   data () {
     return {
       imageUrlFunction: imageUrl
