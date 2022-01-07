@@ -39,6 +39,10 @@ module.exports = {
         text: 'Upside',
         link: 'https://upsidelab.io',
       },
+      {
+        text: 'Github',
+        link: 'https://github.com/upsidelab/vue-cdn-picture',
+      },
     ],
     sidebar: {
       '/': [
