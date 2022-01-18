@@ -1,6 +1,6 @@
 {
   "name": "@upsidelab/vue-cdn-picture",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Vue component for serving optimized images from CDN services",
   "license": "MIT",
   "repository": {
