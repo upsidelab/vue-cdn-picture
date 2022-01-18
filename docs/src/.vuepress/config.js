@@ -79,5 +79,10 @@ module.exports = {
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
-  plugins: []
+  plugins: {
+    sitemap: {
+      hostname: 'https://docs.upsidelab.io/vue-cdn-picture/',
+      exclude: ['/404.html']
+    }
+  }
 }

@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "Vue component for serving optimized images from CDN services",
   "license": "MIT",
+  "homepage": "https://docs.upsidelab.io/vue-cdn-picture/",
   "repository": {
     "type": "git",
     "url": "https://github.com/upsidelab/vue-cdn-picture.git"

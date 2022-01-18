@@ -16,5 +16,7 @@
   "devDependencies": {
     "vuepress": "^1.5.3"
   },
-  "dependencies": {}
+  "dependencies": {
+    "vuepress-plugin-sitemap": "^2.3.1"
+  }
 }
