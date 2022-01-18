@@ -1,5 +1,9 @@
 # Vue CDN Picture
 
+## Documentation
+
+For a full documentation visit: [https://docs.upsidelab.io/vue-cdn-picture/](https://docs.upsidelab.io/vue-cdn-picture/)
+
 ## Getting Started
 
 Modern CDNs and CMS systems provide ability to transform images that are to be served to the user. This makes it easier to optimize bandwidth usage, serve images in next-gen formats and provide multiple versions for HiDPI displays.
